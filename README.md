@@ -32,3 +32,5 @@ Using an open-source social media data set, what can we determine about an indiv
 
 Identify an alternate problem that SOCOM faces and solve it. Extra interest will be paid to solutions that integrate with a user's current kit (e.g. TAK or Night Vision)
 
+## **Back to Basics: Jumpable E-Bike**
+Develop an electronic mountain bike, which is able to be transported easily, and capable of jumping out of an aircraft. The focus should be on simple and reliable designs that extend the range of human operators without adding extra burden or complexity. Starting off with an existing bike is recommended, but custom designs will also be allowed. 
